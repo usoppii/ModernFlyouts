@@ -34,13 +34,6 @@
 	<PackageReference Include="System.Management" Version="10.0.0" />
   </ItemGroup>
 
-  <ItemGroup Condition="'$(Configuration)' == 'Release'">
-    <PackageReference Include="Microsoft.AppCenter" Version="5.0.6" />
-    <PackageReference Include="Microsoft.AppCenter.Analytics" Version="5.0.6" />
-    <PackageReference Include="Microsoft.AppCenter.Crashes" Version="5.0.6" />
-    <PackageReference Include="Microsoft.Services.Store.SDK" Version="10.1705.16001" />
-  </ItemGroup>
-
   <ItemGroup>
     <None Remove="Assets\Images\DefaultAudioThumbnail.png" />
     <None Remove="Assets\Images\DefaultImageThumbnail.png" />
