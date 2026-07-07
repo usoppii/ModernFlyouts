@@ -1,3 +1,8 @@
+> **Note:** This is a maintained community fork of the archived
+> [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) project.
+> Updated to .NET 10, working on Windows 11 24H2+, with signed releases available
+> on the [Releases page](../../releases).
+
 ![ModernFlyouts](ModernFlyouts/Assets/Images/Readme_Banner.png)
 
 #### An open source, modern, **Fluent Design-based** set of flyouts for Windows.
